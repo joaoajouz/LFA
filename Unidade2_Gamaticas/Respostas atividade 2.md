@@ -90,3 +90,25 @@
 4. Pode ser gerada;
 5. Não pode ser gerada;
 6. Não pode ser gerada.
+
+---
+
+# Checklist de estudo
+
+Antes de avançar para os próximos conteúdos, verifique se você consegue:
+
+* [x] Explicar o que é um alfabeto.
+* [x] Identificar os símbolos de um alfabeto.
+* [x] Diferenciar símbolo de palavra.
+* [x] Explicar o que é uma linguagem.
+* [x] Verificar se uma palavra pertence a uma linguagem.
+* [x] Interpretar $\Sigma^*$.
+* [x] Diferenciar $\emptyset$ de $\varepsilon$.
+* [x] Interpretar $w\in L$.
+* [x] Identificar os componentes de uma gramática.
+* [x] Ler uma regra como $S\rightarrow aS$.
+* [x] Realizar uma derivação passo a passo.
+* [x] Identificar quando uma derivação termina.
+* [x] Determinar se uma palavra pode ser gerada por uma gramática.
+
+---
