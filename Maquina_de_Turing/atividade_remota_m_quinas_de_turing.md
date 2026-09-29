@@ -52,7 +52,7 @@ Ao final desta atividade, o estudante deverá ser capaz de:
 
 ### **Etapa 2 e 3 - Simulação da Máquina de Turing ($0^n1^n$)**
 
-Para resolver o desafio de reconhecer palavras da forma $0^n1^n$ (mesma quantidade de zeros seguidos pela mesma quantidade de uns), a lógica de funcionamento da máquina em um simulador (como o *Turing Machine Simulator*) segue o princípio de marcação de pares:
+Para resolver o desafio de reconhecer palavras da forma $0^n1^n$ (mesma quantidade de zeros seguidos pela mesma quantidade de uns), a lógica de funcionamento da máquina em um simulador (*Turing Machine Simulator*) segue o princípio de marcação de pares:
 
 * **Descrição do funcionamento:**
 
