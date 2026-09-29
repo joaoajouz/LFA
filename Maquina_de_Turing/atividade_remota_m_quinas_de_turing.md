@@ -6,13 +6,6 @@
 
 ---
 
-## 📌 Material de Apoio Obrigatório
-Antes de realizar a atividade, assista ao vídeo indicado:
-- **Vídeo:** *Akitando #86 - O Computador de Turing e Von Neumann: Por que calculadoras não são computadores?*
-> **Orientação:** Assista ao material com atenção e utilize os conceitos apresentados para responder às questões e desenvolver a atividade de simulação.
-
----
-
 ## 🎯 1. Objetivos da Atividade
 Ao final desta atividade, o estudante deverá ser capaz de:
 - Compreender o conceito de Máquina de Turing.
