@@ -39,7 +39,7 @@ Ao final desta atividade, o estudante deverá ser capaz de:
 Após assistir ao vídeo e estudar o material disponibilizado, responda às questões abaixo:
 
 1. **O que é uma Máquina de Turing?**
-   > *Sua resposta aqui...*
+   > *Conforme dito pelo Fábio Akita, a máquina de Turing é um modelo matemático abstrato e universal de computação proposto por Alan Turing. Ela consiste essencialmente em uma fita de papel infinita (que serve simultaneamente como entrada, saída e espaço de armazenamento de dados/programa) e uma cabeça de leitura/escrita que pode se mover para a esquerda, para a direita ou permanecer parada, operando com base em um conjunto finito de estados e regras de transição.*
 
 2. **Quais são os principais componentes de uma Máquina de Turing?**
    > *Sua resposta aqui...*
