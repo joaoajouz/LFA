@@ -28,11 +28,6 @@ Ao final desta atividade, o estudante deverá ser capaz de:
 
 ## 🚀 3. Desenvolvimento da Atividade
 
-### Etapa 1 - Introdução (Questões Teóricas)
-Após assistir ao vídeo e estudar o material disponibilizado, responda às questões abaixo:
-
-Com base no vídeo do Fábio Akita e nas diretrizes da atividade apresentada no documento, organizei as respostas para cada uma das etapas do trabalho.
-
 ### **Etapa 1 - Introdução**
 
 1. **O que é uma Máquina de Turing?** Conforme dito pelo Fábio Akita, a máquina de Turing é um modelo matemático abstrato e universal de computação proposto por Alan Turing. Ela consiste essencialmente em uma fita de papel infinita (que serve simultaneamente como entrada, saída e espaço de armazenamento de dados/programa) e uma cabeça de leitura/escrita que pode se mover para a esquerda, para a direita ou permanecer parada, operando com base em um conjunto finito de estados e regras de transição.
