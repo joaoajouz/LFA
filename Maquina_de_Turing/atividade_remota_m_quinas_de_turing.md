@@ -62,9 +62,9 @@ Para resolver o desafio de reconhecer palavras da forma $0^n1^n$ (mesma quantida
 
 | **Teste** | **Entrada** | **Resultado esperado** | **Resultado obtido** | **Estados percorridos**                                                                                                            |
 | --------- | ----------- | ---------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **1**     | `0011`      | ACEITA                 | ACEITA               | `q0` $\rightarrow$ `escreve_X` $\rightarrow$ `procura_1` $\rightarrow$ `escreve_Y` $\rightarrow$ `retorna` $\rightarrow$ `aceita`  |
-| **2**     | `000111`    | ACEITA                 | ACEITA               | `q0` $\rightarrow$ `escreve_X` $\rightarrow$ `procura_1` $\rightarrow$ `escreve_Y` $\rightarrow$ `retorna` $\rightarrow$ `aceita`  |
-| **3**     | `00111`     | REJEITA                | REJEITA              | `q0` $\rightarrow$ `escreve_X` $\rightarrow$ `procura_1` $\rightarrow$ `escreve_Y` $\rightarrow$ `retorna` $\rightarrow$ `rejeita` |
+| **1**     | `0011`      | ACEITA                 | XXYY              | `q0` $\rightarrow$ `escreve_X` $\rightarrow$ `procura_1` $\rightarrow$ `escreve_Y` $\rightarrow$ `retorna` $\rightarrow$ `aceita`  |
+| **2**     | `000111`    | ACEITA                 | XXXYYY               | `q0` $\rightarrow$ `escreve_X` $\rightarrow$ `procura_1` $\rightarrow$ `escreve_Y` $\rightarrow$ `retorna` $\rightarrow$ `aceita`  |
+| **3**     | `00111`     | REJEITA                | XXYY1           | `q0` $\rightarrow$ `escreve_X` $\rightarrow$ `procura_1` $\rightarrow$ `escreve_Y` $\rightarrow$ `retorna` $\rightarrow$ `rejeita` |
 
 > <img width="1917" height="1025" alt="print imput 00111" src="https://github.com/user-attachments/assets/ebd0f129-2234-472a-8527-2419d4e5c971" />
 > <img width="1912" height="1035" alt="Print input 0011" src="https://github.com/user-attachments/assets/bf83abb6-6dee-4701-a6b7-e657ca518e7f" />
