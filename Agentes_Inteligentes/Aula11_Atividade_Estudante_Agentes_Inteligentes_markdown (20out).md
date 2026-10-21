@@ -18,9 +18,9 @@ Para cada afirmação, indique V ou F, justifique e forneça exemplo ou contraex
 
 ### a. Um agente que detecta apenas informações parciais sobre o estado não pode ser perfeitamente racional.
 
-- Julgamento: [V/F]
-- Justificativa: [escreva aqui]
-- Exemplo ou contraexemplo: [escreva aqui]
+- Julgamento: [F]
+- Justificativa: [A racionalidade depende das percepções recebidas, do conhecimento prévio e das ações possíveis. Ser racional significa tomar a melhor decisão possível dada a informação disponíve]
+- Exemplo ou contraexemplo: [Um robô aspirador de pó em um ambiente parcialmente observável que limpa perfeitamente a divisão onde se encontra maximizando o desempenho esperado sem saber o que está nas outras divisões]
 
 ### b. Existem ambientes de tarefa nos quais nenhum agente reativo puro pode comportar-se racionalmente.
 
