@@ -1,6 +1,6 @@
 # Sistema Especialista de Crédito Responsável: Prevenção ao Superendividamento por Apostas Online (Bets)
 
-**Disciplina:** Inteligência Artificial e Linguagens Formais e Autômatos (IA/LFA)
+**Disciplina:**Linguagens Formais e Autômatos (LFA)
 **Professora:** Kadidja Valéria
 **Área:** Finanças, triagem de crédito responsável
 **Linguagem:** Python 3 (biblioteca padrão, sem dependências)
