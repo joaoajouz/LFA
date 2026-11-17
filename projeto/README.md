@@ -1,9 +1,9 @@
 # Sistema Especialista de Crédito Responsável: Prevenção ao Superendividamento por Apostas Online (Bets)
 
-**Disciplina:** Inteligência Artificial e Linguagens Formais e Autômatos (IA/LFA)
+**Disciplina:** Linguagens Formais e Autômatos (LFA)
 **Professora:** Kadidja Valéria
-**Área:** Finanças, triagem de crédito responsável
-**Linguagem:** Python 3 (biblioteca padrão, sem dependências)
+**Área de Conhecimento:** Finanças, triagem de crédito responsável
+**Linguagem:** Python 3 
 **Inferência:** encadeamento para trás (*backward chaining*) com poda de hipóteses e escolha dinâmica de perguntas por maior alcance
 
 ---
@@ -32,7 +32,7 @@
 
 ### 1. O Acontecimento Social que Torna este Sistema Necessário
 
-> **Em uma frase:** o Brasil vive um recorde de inadimplência ao mesmo tempo em que as apostas online (as "Bets") podem se tornar, para muitos consumidores, a porta de entrada para o endividamento. Ofertar crédito de forma irresponsável a essas pessoas agrava o ciclo.
+> **Em uma frase:** o Brasil vive um recorde de inadimplência ao mesmo tempo em que as apostas online (as Bets) podem se tornar, para muitos consumidores, a porta de entrada para o endividamento. Ofertar crédito de forma irresponsável a essas pessoas agrava o ciclo.
 
 **O que está acontecendo.** Dois fenômenos se somam. O primeiro é a inadimplência recorde: em setembro de 2026, a Serasa registrou **84,2 milhões de brasileiros com nome negativado** (51,1% da população adulta). O segundo é a expansão das apostas: na pesquisa da Serasa com a Opinion Box, **46% dos inadimplentes já apostaram** ao menos uma vez, **44% deles apostaram para tentar quitar dívidas** e **57% dos endividados que apostaram não estavam inadimplentes antes** de começar a apostar. Esses números sugerem que as apostas podem funcionar como porta de entrada para o endividamento, e não apenas como sintoma de quem já estava endividado (são respostas autodeclaradas, e o estudo não prova causa).
 
@@ -92,7 +92,7 @@ O motor é definido pelo problema que resolve, como no exemplo de um sistema sob
 |---|---|---|
 | **Problema** | Desperdício de alimentos na geladeira | Superendividamento ligado a apostas online (Bets) |
 | **Motor de inferência (objetivo)** | Reduzir o desperdício de alimentos | Prevenir o endividamento irresponsável na concessão de crédito |
-| **O que o motor infere** | A melhor ação sobre os alimentos | A decisão de proteção: negar por risco de Bets, bloquear preventivamente, análise humana, limite protegido ou reeducação financeira |
+| **O que o motor infere** | Controle do tempo que os alimentos foram guardados | A decisão de proteção: negar por risco de Bets, bloquear preventivamente, análise humana, limite protegido ou reeducação financeira |
 
 #### 2.2 Mecanismo técnico
 
