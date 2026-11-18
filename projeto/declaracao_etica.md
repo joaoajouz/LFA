@@ -1,12 +1,10 @@
 # Ética e Impactos da Inteligência Artificial: Análise e Declaração de Uso de IA
 
 **Projeto:** Sistema Especialista de Crédito Responsável (prevenção ao superendividamento por apostas online)
-**Disciplina:** Inteligência Artificial e LFA, UDF Centro Universitário
+**Disciplina:** LFA, UDF Centro Universitário
 **Professora:** Kadidja Valéria
 **Atividade:** Aula de 17 de novembro de 2026
 **Grupo 1:** João Pedro Figueiredo Ajouz
-
-> Os trechos marcados como **[PREENCHER]** ou **[CONFIRMAR]** dependem de algo que só o autor pode afirmar (leitura do artigo, vídeo, debate em sala e o que ele de fato verificou). Revise e remova as marcações antes de entregar.
 
 ---
 
