@@ -1,12 +1,10 @@
 # Ética e Impactos da Inteligência Artificial: Análise e Declaração de Uso de IA
 
 **Projeto:** Sistema Especialista de Crédito Responsável (prevenção ao superendividamento por apostas online)
-**Disciplina:** Inteligência Artificial e LFA, UDF Centro Universitário
+**Disciplina:**LFA, UDF Centro Universitário
 **Professora:** Kadidja Valéria
 **Atividade:** Aula de 17 de novembro de 2026
 **Grupo 1:** João Pedro Figueiredo Ajouz
-
-> Os trechos marcados como **[PREENCHER]** dependem de algo que só o autor pode afirmar: o argumento ouvido no debate em sala. Preencha-os e remova as marcações antes de entregar.
 
 ---
 
@@ -138,4 +136,4 @@ O projeto utiliza um **sistema especialista baseado em regras de produção, com
 
 ### 4.2 IA utilizada na elaboração do trabalho
 
-Utilizei o **Claude, da Anthropic** (modelo **Claude Sonnet 5.5**) para **estruturar o domínio e as regras do sistema especialista, gerar o código em Python (versões de console e de interface gráfica), redigir e reorganizar o README, buscar e organizar dados públicos da Serasa, criar o fluxograma do motor de inferência e preparar rascunhos desta declaração**. Aproveitei **o código, a estrutura do README, as tabelas de regras e de testes, o fluxograma e partes do texto** após **executar o programa de console e testar a interface gráfica no meu computador e conferir nas fontes originais os números da Serasa usados no README**. As decisões de escopo (domínio de finanças, foco em apostas online e as orientações da professora sobre o motor de inferência e a ética) foram minhas. **Não utilizei outra ferramenta de IA.** A maior parte do código e do texto foi gerada pelo Claude a partir de instruções minhas; o Claude é uma ferramenta, e não integrante do grupo. Assumo a responsabilidade pelas escolhas, verificações e conteúdo da entrega.
+Utilizei o **Claude, da Anthropic** (modelo **Claude Sonnet 5.5**) para **estruturar o domínio e as regras do sistema especialista, gerar o código em Python (versões de console e de interface gráfica), reorganizar o README, organizar dados públicos da Serasa, criar o fluxograma do motor de inferência e preparar rascunhos desta declaração**. Aproveitei **o código, a estrutura do README, as tabelas de regras e de testes, o fluxograma e partes do texto** após **executar o programa de console e testar a interface gráfica no meu computador e conferir nas fontes originais os números da Serasa usados no README**. As decisões de escopo (domínio de finanças, foco em apostas online e as orientações da professora sobre o motor de inferência e a ética) foram minhas. **Não utilizei outra ferramenta de IA.** A maior parte do código e uma pequena parte do texto foi gerada pelo Claude a partir de instruções minhas; o Claude é uma ferramenta de apoio, e não integrante do grupo. 
